@@ -1,0 +1,2 @@
+# myResource
+my temp file!
